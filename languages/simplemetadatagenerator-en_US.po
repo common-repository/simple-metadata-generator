@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Metadata Generator\n"
+"POT-Creation-Date: 2019-08-27 15:01+0200\n"
+"PO-Revision-Date: 2019-08-27 15:03+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-metadata-generator.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: smg_settings.php:13 smg_settings.php:14 smg_settings.php:222
+msgid "Métadonnées"
+msgstr "Metadata"
+
+#: smg_settings.php:39
+msgid "Affichage des métadonnées"
+msgstr "Viewing metadata"
+
+#: smg_settings.php:46
+msgid "Open Graph (Facebook)"
+msgstr "Open Graph (Facebook)"
+
+#: smg_settings.php:54
+msgid "Twitter"
+msgstr "Twitter"
+
+#: smg_settings.php:62
+msgid "Identifiant Twitter"
+msgstr "Twitter ID"
+
+#: smg_settings.php:70
+msgid "Type de carte (Twitter)"
+msgstr "Twitter Card Type"
+
+#: smg_settings.php:78
+msgid "Image par défaut (OG et Twitter)"
+msgstr "Default image (OG and Twitter)"
+
+#: smg_settings.php:86
+msgid "Dublin Core (DC)"
+msgstr "Dublin Core (DC)"
+
+#: smg_settings.php:94
+msgid "HTML Description"
+msgstr "HTML Description"
+
+#: smg_settings.php:102
+msgid "HTML Keywords"
+msgstr "HTML Keywords"
+
+#: smg_settings.php:138
+msgid "Envoyer votre image"
+msgstr "Send your image"
+
+#: smg_settings.php:140
+msgid ""
+"Voir les tailles recommandées par les réseaux sociaux pour le partage, 800px "
+"minimum."
+msgstr ""
+"See the sizes recommended by social networks for sharing, 800px minimum."
+
+#: smg_settings.php:146
+msgid "Supprimer l'image"
+msgstr "Remove image"
+
+#: smg_settings.php:160
+msgid ""
+"Type de présentation : résumé (petite image) ou résumé avec une grande image."
+msgstr "Summary (default) or Large Summary"
+
+#: smg_settings.php:172
+msgid "@monId"
+msgstr "#myID"
+
+#: smg_settings.php:174
+msgid "Votre identifiant Twitter @MonNom"
+msgstr "Add your Twitter ID (@myName)"
+
+#: smg_settings.php:198
+msgid ""
+"Entrez maximum 20 mots-clés, séparés par une virgule. Ils doivent décrire le "
+"plus précisément votre site/vos contenus"
+msgstr ""
+"Enter maximum 20 keywords, separated by a comma. They must accurately "
+"describe your site/content."
+
+#: smg_settings.php:210
+msgid ""
+"La métadonnée \"Description\" ne peut comporter plus de 200 signes. Son "
+"contenu s'affiche, par exemple, comme description dans les résultats des "
+"moteurs de recherche ou comme texte par défaut lors du partage sur les "
+"réseaux sociaux."
+msgstr ""
+"The \"Description\" metadata may not contain more than 200 signs. Its "
+"content appears, for example, as a description in search engine results or "
+"as the default text when sharing on social networks."
+
+#: smg_settings.php:216
+msgid ""
+"<p id=\"txt\">4 types de métadonnées sont disponibles : Open Graph, Twitter "
+"Card, Dublin Core et les métadonnées HTML relatives aux mots-clés et à la "
+"description du site/des contenus.</p>"
+msgstr ""
+"<p id=\"txt\">4 types of metadata are available: Open Graph, Twitter Card, "
+"Dublin Core and HTML metadata related to keywords and site/content "
+"description.</p>"
+
+#: smg_settings.php:243
+msgid "Choisir votre image"
+msgstr "Choose your image"
+
+#: smg_settings.php:244
+msgid "Utiliser cette image"
+msgstr "Use this image"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Metadata Generator"
+msgstr "Simple Metadata Generator"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.ohmybox.info"
+msgstr "http://www.ohmybox.info"
+
+#. Description of the plugin/theme
+msgid ""
+"Ajoute automatiquement les métadonnées HTML, Open Graph, Twitter Card et "
+"Dublin Core aux pages de votre thème."
+msgstr ""
+"Automatically adds HTML, Open Graph, Twitter Card and Dublin Core metadata "
+"to your WP theme."
+
+#. Author of the plugin/theme
+msgid "Laurence/OhMyBox.info"
+msgstr "Laurence/OhMyBox.info"
+
+#~ msgid "Sélectionner les métadonnées à afficher dans vos pages"
+#~ msgstr "Select the metadata to display in your pages"
+
+#~ msgid "Métadonnées Open Graph (OG)"
+#~ msgstr "Open Graph Metadata"
+
+#~ msgid "Schéma Open Graph"
+#~ msgstr "Open Graph Schema"
+
+#~ msgid "Métadonnées Dublin Core (DC)"
+#~ msgstr "Dublin Core Metadata"
+
+#~ msgid "Id pour FB:admins"
+#~ msgstr "ID for FB: admins"
+
+#~ msgid "Méta balise Keywords"
+#~ msgstr "Meta tag Keywords"
+
+#~ msgid ""
+#~ "Ajoute automatiquement le code Open Graph dans la balise <html>. "
+#~ "Recommandé si les métadonnées OG sont activées."
+#~ msgstr ""
+#~ "Adds automatically the Open Graph schema code in the <html> tag. "
+#~ "Recommended if the OG metadata are enabled."
+
+#~ msgid ""
+#~ "Pour un rendu optimal, cette image devrait mesurer min. 800 pixels de "
+#~ "large"
+#~ msgstr ""
+#~ "For an optimal rendering, this image should have a width of min. 800px"
+
+#~ msgid "Supprimer"
+#~ msgstr "Remove"
+
+#~ msgid ""
+#~ "Métadonnée pour obtenir des statistiques relatives à vos pages FB. Vous "
+#~ "devez être connecté à Facebook pour obtenir cet identifiant."
+#~ msgstr ""
+#~ "Get insights of your pages. You must be logged to your Facebook account "
+#~ "to get your fb:admins ID."
+
+#~ msgid ""
+#~ "3 types de métadonnées sont disponibles, ainsi que les métadonnées "
+#~ "relatives aux mots-clés et à la description du site/des contenus. Libre à "
+#~ "vous d'en ignorer si celles-ci se trouvent déjà intégrées à votre thème : "
+#~ "aucun champ n'est obligatoire."
+#~ msgstr ""
+#~ "3 types of metadata are available, as well as description and keywords "
+#~ "metadata. Feel free to ignore if they are already integrated to your "
+#~ "theme: no field is mandatory."
+
+#~ msgid ""
+#~ "3 types de métadonnées sont disponibles. Libre à vous d'en ignorer si "
+#~ "celles-ci se trouvent déjà intégrées à votre thème."
+#~ msgstr ""
+#~ "3 types of metadata are available. Feel free to ignore if they are "
+#~ "already built into your theme."
